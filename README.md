@@ -5,3 +5,4 @@
 Группа 2021-06
 
 1. hw01-gradle
+2. hw02-collections
